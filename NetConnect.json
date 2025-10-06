@@ -1,0 +1,6 @@
+{
+	"server": "193.146.75.185",
+	"path": "/home/ubuntu/netConnect/data.exchange",
+	"user": "ubuntu",
+	"certificate": "/home/pablo/Documentos/certificates/id_rsa_cloud"
+}
